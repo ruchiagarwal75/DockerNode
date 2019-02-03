@@ -1,0 +1,14 @@
+.nav-bar {
+    background: yellow;
+}
+ul {
+    display: flex;
+}
+li {
+    list-style: none;
+    font-size: 24px;
+    padding: 12px;
+}
+a {
+    text-decoration: none;
+}
